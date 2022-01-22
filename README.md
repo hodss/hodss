@@ -15,6 +15,9 @@ d
 - Fun fact: I also know LUA
 
 
+https://hodss.github.io/hodsscollection/ *IN PROGRESS*
+
 
 hodsscollection and any of its assest are copyright (c) hodss
 
+![Hod folds](https://user-images.githubusercontent.com/98139763/150646899-e9d54f3a-cd03-4a9d-8561-6013bb5a1575.PNG)
