@@ -12,7 +12,9 @@ d
 - I’m looking for help with anything html, and maybe C++/C#
 - How to reach me: for inquires about hodsscollection: hodsscollection@pm.me, or alternatively via twitter.
 - Pronouns: he/him
-- Fun fact: I also know LUA
+
+
+![htmlcssjs](https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png)
 
 
 https://hodss.github.io/hodsscollection/ *IN PROGRESS*
