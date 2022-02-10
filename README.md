@@ -6,6 +6,8 @@ o
 
 d
 
+https://hodss.github.io/AbtMe/ an About Me site
+
 - I’m currently working on hodsscollection, and CodeTrainer
 - I’m currently learning C# 
 - I’m looking to collaborate on anything that I can, please email me at hodsscollection@pm.me or dm me on twitter
