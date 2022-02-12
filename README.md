@@ -6,7 +6,8 @@ o
 
 d
 
-https://hodss.github.io/AbtMe/ an About Me site
+https://hodss.github.io/AbtMe/ Is my about me site.
+http://electrontech.rf.gd Is part of Electron
 
 - I’m currently working on hodsscollection, and CodeTrainer
 - I’m currently learning C# 
@@ -24,5 +25,6 @@ https://hodss.github.io/hodsscollection/ *IN PROGRESS*
 
 hodsscollection and any of its assets are copyright (c) hodss
 CodeTrainer and any of its assets are copyright (c) CodeTrainer
+Electron and any of its assets are copyright (c) Electron Technlogy Partners, GP
 
 ![Hod folds](https://user-images.githubusercontent.com/98139763/150646899-e9d54f3a-cd03-4a9d-8561-6013bb5a1575.PNG)
