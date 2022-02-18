@@ -26,7 +26,7 @@ https://hodss.github.io/hodsscollection/ *IN PROGRESS*
 
 hodsscollection and any of its assets are copyright (c) hodss
 
-CodeTrainer and any of its assets are copyright (c) CodeTrainer
+CodeTrainer and any of its assets are copyright (c) CodeTrainer Technologies, GP
 
 Electron and any of its assets are copyright (c) Electron Technlogy Partners, GP
 
