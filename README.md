@@ -7,7 +7,9 @@ o
 d
 
 https://hodss.gq My site, only this site is my site.
+
 https://codetrainer.ml CodeTrainer
+
 https://theswatproject.hodss.gq The SWAT Project (Webcomic)
 
 - I’m currently working on The SWAT Project, CodeTrainer, and my own site
@@ -26,6 +28,7 @@ hodss.gq and the The SWAT Project, are copyright (c) hodss, SP
 CodeTrainer and any of its assets are copyright (c) CodeTrainer Technologies
 
 DISCONTINUED - hodsscollection 
+
 DISCONTINUED - Electron 
 
 
