@@ -7,7 +7,8 @@ o
 d
 
 https://hodss.gq My site, only this site is my site.
-
+https://codetrainer.ml CodeTrainer
+https://theswatproject.hodss.gq The SWAT Project (Webcomic)
 
 - I’m currently working on The SWAT Project, CodeTrainer, and my own site
 - I’m currently learning C# 
