@@ -6,29 +6,26 @@ o
 
 d
 
-https://hodss.github.io/AbtMe/ Is my about me site.
+https://hodss.gq My site, only this site is my site.
 
-http://electrontech.rf.gd Is part of Electron
 
-- I’m currently working on hodsscollection, and CodeTrainer
+- I’m currently working on The SWAT Project, CodeTrainer, and my own site
 - I’m currently learning C# 
-- I’m looking to collaborate on anything that I can, please email me at hodsscollection@pm.me or dm me on twitter
-- I’m looking for help with anything html, and maybe C++/C#
-- How to reach me: for inquires about hodsscollection: hodsscollection@pm.me, or alternatively via twitter.
+- I’m looking to collaborate on anything that I can, please email me at contact@hodss.gq or dm me on twitter
+- I’m looking for help with anything html, or css, 
+- How to reach me: twitter (rarely check) or via email at contact@hodss.gq
 - Pronouns: he/him
 
 
 ![htmlcssjs](https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png)
 
 
-https://hodss.github.io/hodsscollection/ *IN PROGRESS*
+hodss.gq and the The SWAT Project, are copyright (c) hodss, SP
 
+CodeTrainer and any of its assets are copyright (c) CodeTrainer Technologies
 
-hodsscollection and any of its assets are copyright (c) hodss
-
-CodeTrainer and any of its assets are copyright (c) CodeTrainer Technologies, GP
-
-Electron and any of its assets are copyright (c) Electron Technlogy Partners, GP
+DISCONTINUED - hodsscollection 
+DISCONTINUED - Electron 
 
 
 ![Hod folds](https://user-images.githubusercontent.com/98139763/150646899-e9d54f3a-cd03-4a9d-8561-6013bb5a1575.PNG)
