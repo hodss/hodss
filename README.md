@@ -12,6 +12,8 @@ https://codetrainer.ml CodeTrainer
 
 https://theswatproject.hodss.gq The SWAT Project (Webcomic)
 
+Founder of The Spades Software Collective and Consortium
+
 - I’m currently working on The SWAT Project, CodeTrainer, and my own site
 - I’m currently learning C# 
 - I’m looking to collaborate on anything that I can, please email me at contact@hodss.gq or dm me on twitter
