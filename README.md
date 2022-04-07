@@ -1,37 +1,21 @@
 ### Hello!
 
-h
 
-o
-
-d
-
-https://hodss.gq My site, only this site is my site.
-
-https://codetrainer.ml CodeTrainer
-
-https://theswatproject.hodss.gq The SWAT Project (Webcomic)
-
-Founder of The Spades Software Collective and Consortium
-
-- I’m currently working on The SWAT Project, CodeTrainer, and my own site
-- I’m currently learning C# 
-- I’m looking to collaborate on anything that I can, please email me at contact@hodss.gq or dm me on twitter
-- I’m looking for help with anything html, or css, 
-- How to reach me: twitter (rarely check) or via email at contact@hodss.gq
-- Pronouns: he/him
+This rarely gets updated by I did it today
 
 
-![htmlcssjs](https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png)
+Experience:
 
 
-hodss.gq and the The SWAT Project, are copyright (c) hodss, SP
+3+ Years in HTML
+2+ Years in CSS
+1 Year in JavaScript (primarily backend)
 
-CodeTrainer and any of its assets are copyright (c) CodeTrainer Technologies
+you can check the site as well:
 
-DISCONTINUED - hodsscollection 
+https://hodss.xyz
 
-DISCONTINUED - Electron 
+thats the primary website, but you can also see some stuff on hodss.gq but like who uses free domains nowadays?
 
 
-![Hod folds](https://user-images.githubusercontent.com/98139763/150646899-e9d54f3a-cd03-4a9d-8561-6013bb5a1575.PNG)
+
