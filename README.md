@@ -8,7 +8,9 @@ Experience:
 
 
 3+ Years in HTML
+
 2+ Years in CSS
+
 1 Year in JavaScript (primarily backend)
 
 you can check the site as well:
