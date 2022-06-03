@@ -5,12 +5,11 @@
 
 Experience:
 
-
-3+ Years in HTML
-
-2+ Years in CSS
+2+ Years in HTML/CSS
 
 1 Year in JavaScript (primarily backend)
+
+Some experience in Lua but I rarely ever use it anymore.
 
 you can check the site as well:
 
